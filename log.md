@@ -7,3 +7,11 @@
 **Thoughts:** Error handling was pretty new to me before today, I can see some interesting use cases for it. I've used regular expressions for a while now but today's work has definitely deepened my understanding of metacharacter symbols, shorthand character classes, brackets, braces, parentheses and assertions.
 
 **Link to work:** [Form Validation - Practicing Regular Expressions](https://nostalgic-cray-cbac8c.netlify.app/)
+
+### Day 1: September 9, 2020
+
+**Today's Progress**: Practiced object oriented programming through making a simple quiz app.
+
+**Thoughts:** OOP is such an elegant way of structuring programs. I am willing to implement more OOP in the next future.
+
+**Link to work:** [Quiz - Practicing Obect Oriented Programming](https://goofy-hugle-6713b1.netlify.app/)
