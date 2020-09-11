@@ -20,6 +20,6 @@
 
 **Today's Progress**: Today I learned about iterators and generators in Javascript and I built a simple dating app using these concepts.
 
-**Thoughts:** I had never come across iterators and generators before, I can definetely see a lot of use cases for them.
+**Thoughts:** I had never come across iterators and generators before, I can definitely see a lot of use cases for them.
 
 **Link to work:** [Dating App - Practicing Iterators and Generators](https://ecstatic-ardinghelli-da0f6c.netlify.app)
