@@ -15,3 +15,11 @@
 **Thoughts:** OOP is such an elegant way of structuring programs. I am willing to implement more OOP in the next future.
 
 **Link to work:** [Quiz - Practicing Obect Oriented Programming](https://goofy-hugle-6713b1.netlify.app/)
+
+### Day 2: September 11, 2020
+
+**Today's Progress**: Today I learned about iterators and generators in Javascript and I built a simple dating app using these concepts.
+
+**Thoughts:** I had never come across iterators and generators before, I can definetely see a lot of use cases for them.
+
+**Link to work:** [Dating App - Practicing Iterators and Generators](https://ecstatic-ardinghelli-da0f6c.netlify.app)
