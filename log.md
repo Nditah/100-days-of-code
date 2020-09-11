@@ -22,4 +22,4 @@
 
 **Thoughts:** I had never come across iterators and generators before, I can definitely see a lot of use cases for them.
 
-**Link to work:** [Dating App - Practicing Iterators and Generators](https://ecstatic-ardinghelli-da0f6c.netlify.app)
+**Link to work:** [Dating App - Practicing Iterators and Generators](https://brave-bose-00a576.netlify.app/)
