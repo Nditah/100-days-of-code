@@ -1,0 +1,252 @@
+/* General styles */
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@600;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --darkText: hsl(229, 25%, 31%);
+  --scoreText: hsl(229, 64%, 46%);
+  --headerOutline: hsl(217, 16%, 45%);
+}
+body {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  background: radial-gradient(#1f3756, #141539);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 40px;
+  color: var(--darkText);
+  overflow: hidden;
+  position: relative;
+}
+
+/* Head */
+.head {
+  border: 3px solid var(--headerOutline);
+  width: 600px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 150px;
+  padding: 10px 30px;
+}
+.head .score {
+  background-color: #fff;
+  height: 100px;
+  width: 110px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.head .score span {
+  color: var(--scoreText);
+}
+.head .score #scoreUpdate {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+/* Game */
+.game {
+  height: 400px;
+  width: 1000px;
+  position: relative;
+}
+/* Step-1 */
+.game #triangle {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+  z-index: -1;
+}
+.game .paper,
+.game .rock,
+.game .scissors {
+  width: 120px;
+  height: 120px;
+  background-color: #fff;
+  position: absolute;
+  border-radius: 50%;
+  cursor: pointer;
+  -webkit-box-shadow: inset 0px 8px 0px 0px rgba(229, 229, 229, 1);
+  -moz-box-shadow: inset 0px 8px 0px 0px rgba(229, 229, 229, 1);
+  box-shadow: inset 0px 8px 0px 0px rgba(229, 229, 229, 1);
+}
+.game .step-one .paper {
+  left: 310px;
+  top: 30px;
+}
+.game .step-one .rock {
+  left: 430px;
+  top: 250px;
+}
+.game .step-one .scissors {
+  left: 560px;
+  top: 30px;
+}
+.game .paper .paper-img,
+.game .rock .rock-img,
+.game .scissors .scissors-img {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  text-align: center;
+}
+.border {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  position: absolute;
+  z-index: -1;
+  left: -20px;
+  top: -20px;
+}
+.paper-border {
+  background: linear-gradient(#4865f4, #5671f5);
+  -webkit-box-shadow: inset 0px -6px 0px 0px rgba(45, 64, 156, 1);
+  -moz-box-shadow: inset 0px -6px 0px 0px rgba(45, 64, 156, 1);
+  box-shadow: inset 0px -6px 0px 0px rgba(45, 64, 156, 1);
+}
+.rock-border {
+  background: linear-gradient(#dc2e4e, #dd405d);
+  -webkit-box-shadow: inset 0px -6px 0px 0px rgba(140, 29, 50, 1);
+  -moz-box-shadow: inset 0px -6px 0px 0px rgba(140, 29, 50, 1);
+  box-shadow: inset 0px -6px 0px 0px rgba(140, 29, 50, 1);
+}
+.scissors-border {
+  background: linear-gradient(#ec9e0e, #eca922);
+  -webkit-box-shadow: inset 0px -6px 0px 0px rgba(156, 104, 9, 1);
+  -moz-box-shadow: inset 0px -6px 0px 0px rgba(156, 104, 9, 1);
+  box-shadow: inset 0px -6px 0px 0px rgba(156, 104, 9, 1);
+}
+
+/* Step-2 */
+.step-two {
+  height: 500px;
+  width: 580px;
+  margin: 0 auto;
+  display: none;
+}
+.step-two .picked {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 40px;
+  height: 100px;
+  font-size: 25px;
+  color: #fff;
+}
+
+.step-two .playersChoice {
+  top: 140px;
+  left: 255px;
+}
+
+.step-two .empty-choice {
+  width: 170px;
+  height: 10px;
+  background-color: rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  position: absolute;
+  right: 265px;
+  top: 120px;
+}
+
+.step-two .computersChoice {
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+  position: absolute;
+  right: 235px;
+  top: 140px;
+}
+
+/* Play Again */
+.playAgain {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 20px;
+  bottom: 0;
+  margin: auto;
+}
+
+/* Rules */
+.rules {
+  border: 1px solid #fff;
+  color: #fff;
+  width: 120px;
+  min-height: 50px;
+  border-radius: 10px;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  font-weight: normal;
+  cursor: pointer;
+  z-index: 10;
+}
+
+/* Modal */
+.modal {
+  position: fixed;
+  display: none;
+  z-index: 1;
+  left: 0;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 140px auto;
+  padding: 20px;
+  border: 1px solid #888;
+  height: 370px;
+  width: 370px;
+  padding: 20px;
+  font-size: 25px;
+  border-radius: 20px;
+}
+.modal-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.modal-img {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+/* The Close Button */
+.close {
+}
+.close:hover,
+.close:focus {
+  cursor: pointer;
+}

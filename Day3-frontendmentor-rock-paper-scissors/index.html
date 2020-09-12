@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Frontend Mentor | Rock, Paper, Scissors</title>
+  </head>
+  <body>
+    <!-- Modal -->
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <div class="modal-head">
+          <span>RULES</span>
+          <img src="images/icon-close.svg" class="close" alt="" />
+        </div>
+
+        <div class="modal-img">
+          <img src="images/image-rules.svg" alt="" />
+        </div>
+      </div>
+    </div>
+
+    <div class="head">
+      <img id="logo" src="images/logo.svg" alt="" />
+      <div class="score">
+        <span>SCORE</span>
+        <div id="scoreUpdate">0</div>
+      </div>
+    </div>
+
+    <div class="game">
+      <!-- Step-1 -->
+      <div class="step-one">
+        <img id="triangle" src="images/bg-triangle.svg" alt="" />
+
+        <div class="paper choice" data-choice="paper">
+          <img
+            class="paper-img"
+            src="images/icon-paper.svg"
+            data-choice="paper"
+            alt=""
+          />
+          <div class="border paper-border"></div>
+        </div>
+
+        <div class="scissors choice" data-choice="scissors">
+          <img
+            src="images/icon-scissors.svg"
+            data-choice="scissors"
+            alt=""
+            class="scissors-img"
+          />
+          <div class="border scissors-border"></div>
+        </div>
+
+        <div class="rock choice" data-choice="rock">
+          <img
+            src="images/icon-rock.svg"
+            data-choice="rock"
+            alt=""
+            class="rock-img"
+          />
+          <div class="border rock-border"></div>
+        </div>
+      </div>
+
+      <!-- Step-2 -->
+      <div class="step-two">
+        <div class="picked">
+          <span>YOU PICKED</span>
+          <span>THE HOUSE PICKED</span>
+        </div>
+
+        <div class="playAgain"></div>
+
+        <div class="choices"></div>
+      </div>
+    </div>
+
+    <div class="rules">
+      <span>RULES</span>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
