@@ -23,3 +23,23 @@
 **Thoughts:** I had never come across iterators and generators before, I can definitely see a lot of use cases for them.
 
 **Link to work:** [Dating App - Practicing Iterators and Generators](https://brave-bose-00a576.netlify.app/)
+
+### Day 3: September 12, 2020
+
+**Today's Progress**: Today I didn't learn anything new but I instead worked on a really fun challenge from frontendmentor.io.
+
+**Thoughts:** I find building projects from scratch really rewarding!
+
+**Link to work:** [Frontend Mentor - Rock, Paper, Scissors](https://github.com/guarmo/100-days-of-code/tree/master/Day3-frontendmentor-rock-paper-scissors)
+
+### Day 4: September 13, 2020
+
+**Today's Progress**: I completed a small project using async/ await and scroll event listener.
+
+**Thoughts:** It's cool to be able to build a page that loads content infinitely.
+
+**Link to work:** [Infinite Comments](https://vigorous-saha-f1a98b.netlify.app/s)
+
+
+
+
