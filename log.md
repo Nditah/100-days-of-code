@@ -38,7 +38,7 @@
 
 **Thoughts:** It's cool to be able to build a page that loads content infinitely.
 
-**Link to work:** [Infinite Comments](https://vigorous-saha-f1a98b.netlify.app/s)
+**Link to work:** [Infinite Comments](https://vigorous-saha-f1a98b.netlify.app/)
 
 
 
