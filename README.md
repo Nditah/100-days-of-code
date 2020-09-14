@@ -41,3 +41,11 @@
 **Thoughts:** It's cool to be able to build a page that loads content infinitely.
 
 **Link to work:** [Infinite Comments](https://vigorous-saha-f1a98b.netlify.app/)
+
+### Day 5: September 14, 2020
+
+**Today's Progress**: Today I completed one of the most advanced project I have ever worked on, an IP address tracker. I fetched the IP address locations from 'IP Geolocation API by IPify' and generated the map using 'LeafletJS'. 
+
+**Thoughts:** I got a bit frustrated because the app could be definetely more mobile friendly and also my CSS is pretty messy. But my main focus at the moment is improving JS, so that's fine for now!
+
+**Link to work:** [IP Address Tracker](https://condescending-tereshkova-919a58.netlify.app/)
