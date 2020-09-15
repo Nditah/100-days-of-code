@@ -76,5 +76,5 @@ $ npm start
 
 ## Contact
 
-- GitHub [@your-username](https://{github.com/guarmo})
-- Twitter [@your-twitter](https://{twitter.com/_guarmo})
+- GitHub [@guarmo](https://{github.com/guarmo})
+- Twitter [@_guarmo](https://{twitter.com/_guarmo})
