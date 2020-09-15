@@ -49,3 +49,11 @@
 **Thoughts:** I got a bit frustrated because the app could be definetely more mobile friendly and also my CSS is pretty messy. But my main focus at the moment is improving JS, so that's fine for now!
 
 **Link to work:** [IP Address Tracker](https://condescending-tereshkova-919a58.netlify.app/)
+
+### Day 6: September 15, 2020
+
+**Today's Progress**: I built this quote generator app HTML, CSS, and Vanilla Javascript. It was quite easy project but I find re-iterating a fundamental step to really fully understand concepts. 
+
+**Thoughts:** Repetition is key.
+
+**Link to work:** [Quote Generator](https://distracted-wozniak-3c4af6.netlify.app/)
