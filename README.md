@@ -52,7 +52,7 @@
 
 ### Day 6: September 15, 2020
 
-**Today's Progress**: I built this quote generator app HTML, CSS, and Vanilla Javascript. It was quite easy project but I find re-iterating a fundamental step to really fully understand concepts. 
+**Today's Progress**: I built this quote generator app HTML, CSS, and Vanilla Javascript. It was quite an easy project but I find re-iterating a fundamental step to really fully understand concepts. 
 
 **Thoughts:** Repetition is key.
 
