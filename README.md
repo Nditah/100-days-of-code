@@ -57,3 +57,11 @@
 **Thoughts:** Repetition is key.
 
 **Link to work:** [Quote Generator](https://distracted-wozniak-3c4af6.netlify.app/)
+
+### Day 7: September 15, 2020
+
+**Today's Progress**: Spent a few hours deepening my understanding of ES6 destructuring.
+
+**Thoughts:** I am currently getting ready to learn React. Before moving onto that I decided to spend a few days reviewing: destructuring, classes, high order array methods, fetch API & Promises.
+
+**Link to work:** [Practicing-ES6-Destructuring](https://github.com/guarmo/100-days-of-code/tree/master/Day7-Practicing-ES6-Destructuring)
