@@ -65,3 +65,11 @@
 **Thoughts:** I am getting ready to learn React. Before moving onto that, I decided to spend a few days reviewing: destructuring, classes, high order array methods, fetch API & Promises.
 
 **Link to work:** [Practicing-ES6-Destructuring](https://github.com/guarmo/100-days-of-code/tree/master/Day7-Practicing-ES6-Destructuring)
+
+### Day 8: September 17, 2020
+
+**Today's Progress**: Spent a few hours deepening my understanding of ES5 Constructor functions & prototypes inheritance, ES6 Classes & Sub Classes.
+
+**Thoughts:** I have reviewed these topics a lot lately and therefore they're getting more familiar.
+
+**Link to work:** [Reviewing-ES6-ConstructorFunctions&Classes](https://github.com/guarmo/100-days-of-code/tree/master/Day8-Reviewing-ConstructorFunctions-ES6Classes)
