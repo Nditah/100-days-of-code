@@ -73,3 +73,12 @@
 **Thoughts:** I have reviewed these topics a lot lately and therefore they're getting more familiar.
 
 **Link to work:** [Reviewing-ES6-ConstructorFunctions&Classes](https://github.com/guarmo/100-days-of-code/tree/master/Day8-Reviewing-ConstructorFunctions-ES6Classes)
+
+### Day 9: September 18, 2020
+
+**Today's Progress**: Reviewed High Order Array Methods.
+
+**Thoughts:** I feel extremely confident using and manipulating arrays. Todays refresher was helpful though.
+
+**Link to work:** [Reviewing-High-Order-Array-Methods](https://github.com/guarmo/100-days-of-code/tree/master/Day9-High-Order-Array-Methods)
+
