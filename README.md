@@ -88,5 +88,5 @@
 
 **Thoughts:** Last day reviewing concepts before moving onto React. 
 
-**Link to work:** [Weather-APP](https://vibrant-wing-a22087.netlify.app/s)
+**Link to work:** [Weather-APP](https://vibrant-wing-a22087.netlify.app/)
 
