@@ -82,3 +82,11 @@
 
 **Link to work:** [Reviewing-High-Order-Array-Methods](https://github.com/guarmo/100-days-of-code/tree/master/Day9-High-Order-Array-Methods)
 
+### Day 10: September 20, 2020
+
+**Today's Progress**: Reviewed Asynchronous Javascript. Created Weather APP.
+
+**Thoughts:** Last day reviewing concepts before moving onto React. 
+
+**Link to work:** [Weather-APP](https://vibrant-wing-a22087.netlify.app/s)
+
