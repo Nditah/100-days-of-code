@@ -90,3 +90,12 @@
 
 **Link to work:** [Weather-APP](https://vibrant-wing-a22087.netlify.app/)
 
+### Day 11: September 21, 2020
+
+**Today's Progress**: Created a small Vanilla JS project using Drag & Drop API. Started reading React docs, created first React App and learned about file structure and environment setup.
+
+**Thoughts:** After 6 months of learning pure Javascript concept, finally time to learn something new!
+
+**Link to work:** [Drag&DropAPI](https://rb.gy/cg5loc)
+
+
