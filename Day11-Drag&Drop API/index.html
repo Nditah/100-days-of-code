@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Drag and Drop</title>
+  </head>
+  <body>
+    <h1>Drag and Drop Items</h1>
+    <div class="grid">
+      <div
+        class="col col-list1"
+        ondrop="drop(event)"
+        ondragover="allowDrop(event)"
+      >
+        <h3>List #1</h3>
+        <div
+          class="card"
+          draggable="true"
+          ondragstart="drag(event)"
+          data-id="1"
+        >
+          <h4>Item #1</h4>
+        </div>
+        <div
+          class="card"
+          draggable="true"
+          ondragstart="drag(event)"
+          data-id="2"
+        >
+          <h4>Item #2</h4>
+        </div>
+        <div
+          class="card"
+          draggable="true"
+          ondragstart="drag(event)"
+          data-id="3"
+        >
+          <h4>Item #3</h4>
+        </div>
+      </div>
+      <div
+        class="col col-list2"
+        ondrop="drop(event)"
+        ondragover="allowDrop(event)"
+      >
+        <h3>List #2</h3>
+        <div
+          class="card"
+          draggable="true"
+          ondragstart="drag(event)"
+          data-id="4"
+        >
+          <h4>Item #4</h4>
+        </div>
+        <div
+          class="card"
+          draggable="true"
+          ondragstart="drag(event)"
+          data-id="5"
+        >
+          <h4>Item #5</h4>
+        </div>
+        <div
+          class="card"
+          draggable="true"
+          ondragstart="drag(event)"
+          data-id="6"
+        >
+          <h4>Item #6</h4>
+        </div>
+      </div>
+      <div
+        class="col col-list3"
+        ondrop="drop(event)"
+        ondragover="allowDrop(event)"
+      >
+        <h3>List #3</h3>
+        <div
+          class="card"
+          draggable="true"
+          ondragstart="drag(event)"
+          data-id="7"
+        >
+          <h4>Item #7</h4>
+        </div>
+        <div
+          class="card"
+          draggable="true"
+          ondragstart="drag(event)"
+          data-id="8"
+        >
+          <h4>Item #8</h4>
+        </div>
+        <div
+          class="card"
+          draggable="true"
+          ondragstart="drag(event)"
+          data-id="9"
+        >
+          <h4>Item #9</h4>
+        </div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
