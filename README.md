@@ -98,4 +98,12 @@
 
 **Link to work:** [Drag&DropAPI](https://rb.gy/cg5loc)
 
+### Day 12: September 22, 2020
+
+**Today's Progress**: I finally reated my first React App and learned about JSX, components, props and states.
+
+**Thoughts:** A little challenging because I still need to familiarize myself with these new concepts.
+
+**Link to work:** [My-First-React-App](https://rb.gy/cqpqff)
+
 
