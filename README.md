@@ -100,10 +100,18 @@
 
 ### Day 12: September 22, 2020
 
-**Today's Progress**: I finally reated my first React App and learned about JSX, components, props and states.
+**Today's Progress**: I finally started creating my first React App and learned about JSX, components, props and states.
 
 **Thoughts:** A little challenging because I still need to familiarize myself with these new concepts.
 
 **Link to work:** [My-First-React-App](https://rb.gy/cqpqff)
+
+### Day 13: September 23, 2020
+
+**Today's Progress**: Today it's been mostly about theory: I've reviewed Javascript concepts through this very useful article: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript and then deepened my understanding of React's basic concept through React's docs: https://reactjs.org/tutorial/tutorial.html
+
+**Thoughts:** 
+
+**Link to work:** [React-Tutorial](https://rb.gy/kevjbl)
 
 
