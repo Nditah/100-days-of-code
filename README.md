@@ -114,4 +114,18 @@
 
 **Link to work:** [React-Tutorial](https://rb.gy/kevjbl)
 
+### Day 14: September 24, 2020
+
+**Today's Progress**: Today I've learned about state and lifecycle, learned about 'setState' and created a Clock app with React.
+**Thoughts:** I'm getting to know and to love React much better. I've found [this article](https://css-tricks.com/understanding-react-setstate/) very useful!
+
+**Link to work:** [Clock-app](https://infallible-booth-c74b12.netlify.app/)
+
+### Day 14: September 25, 2020
+
+**Today's Progress**: Today I've learned about handling events and binding functions in React. 
+**Thoughts:** I've found [this article](https://codeburst.io/binding-functions-in-react-b168d2d006cb) very useful!
+
+**Link to work:** [Practicing-React](https://dreamy-ride-cbafb1.netlify.app/)
+
 
