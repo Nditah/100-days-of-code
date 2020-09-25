@@ -121,7 +121,7 @@
 
 **Link to work:** [Clock-app](https://infallible-booth-c74b12.netlify.app/)
 
-### Day 14: September 25, 2020
+### Day 15: September 25, 2020
 
 **Today's Progress**: Today I've learned about handling events and binding functions in React. 
 **Thoughts:** I've found [this article](https://codeburst.io/binding-functions-in-react-b168d2d006cb) very useful!
