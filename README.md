@@ -108,7 +108,7 @@
 
 ### Day 13: September 23, 2020
 
-**Today's Progress**: Today it's been mostly about theory: I've reviewed Javascript concepts through this very useful article: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript and then deepened my understanding of React's basic concept through React's docs: https://reactjs.org/tutorial/tutorial.html
+**Today's Progress**: Today it's been mostly about theory: I've reviewed Javascript concepts through [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) very useful article:  and then deepened my understanding of React's basic concept through React's ]docs](https://reactjs.org/tutorial/tutorial.html) 
 
 **Thoughts:** 
 
