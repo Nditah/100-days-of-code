@@ -120,7 +120,7 @@
 
 **Thoughts:** I'm getting to know and to love React much better. I've found [this article](https://css-tricks.com/understanding-react-setstate/) very useful!
 
-**Link to work:** [Demo](https://infallible-booth-c74b12.netlify.app/) [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day14%26Day15-Practicing-React/Hello-world-clock-src)
+**Link to work:** [Demo](https://infallible-booth-c74b12.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day14%26Day15-Practicing-React/Hello-world-clock-src)
 
 ### Day 15: September 25, 2020
 
@@ -128,7 +128,7 @@
 
 **Thoughts:** I've found [this article](https://codeburst.io/binding-functions-in-react-b168d2d006cb) very useful!
 
-**Link to work:** [Demo](https://dreamy-ride-cbafb1.netlify.app/) [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day14%26Day15-Practicing-React/React-practice-src)
+**Link to work:** [Demo](https://dreamy-ride-cbafb1.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day14%26Day15-Practicing-React/React-practice-src)
 
 ### Day 16: September 26, 2020
 
@@ -136,6 +136,6 @@
 
 **Thoughts:** I've found [this article](https://www.digitalocean.com/community/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications) very useful!
 
-**Link to work:** [Demo](https://quirky-golick-b94f1f.netlify.app/) [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day16-Conditional-Rendering-React)
+**Link to work:** [Demo](https://quirky-golick-b94f1f.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day16-Conditional-Rendering-React)
 
 
