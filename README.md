@@ -130,4 +130,12 @@
 
 **Link to work:** [Practicing-React](https://dreamy-ride-cbafb1.netlify.app/)
 
+### Day 16: September 26, 2020
+
+**Today's Progress**: Today I've learned about conditional rendering in React. 
+
+**Thoughts:** I've found [this article](https://www.digitalocean.com/community/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications) very useful!
+
+**Link to work:** [Conditional Rendering](https://quirky-golick-b94f1f.netlify.app/)
+
 
