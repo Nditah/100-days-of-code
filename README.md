@@ -138,4 +138,12 @@
 
 **Link to work:** [Demo](https://quirky-golick-b94f1f.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day16-Conditional-Rendering-React)
 
+### Day 17: September 27, 2020
+
+**Today's Progress**: Today I've learned about Lists and Keys in React. 
+
+**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/lists-and-keys.html), [this article](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318) and [this video] (https://www.youtube.com/watch?v=0sasRxl35_8&t=48s)
+
+**Link to work:** [Demo](https://rb.gy/f0ftcy) - [Code](https://rb.gy/vcelwe)
+
 
