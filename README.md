@@ -148,7 +148,7 @@
 
 ### Day 18: September 28, 2020
 
-**Today's Progress**: Today I've learned about Forms in React. 
+**Today's Progress**: Today I've learned about Forms in React and reviewed all the React concepts learned until now.
 
 **Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/forms.html) and [this video](https://www.youtube.com/watch?v=7Vo_VCcWupQ&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=21)
 
