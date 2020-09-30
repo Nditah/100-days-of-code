@@ -154,4 +154,12 @@
 
 **Link to work:** [Demo](https://rb.gy/ketm2r) - [Code](https://rb.gy/l4xbid)
 
+### Day 19: September 30, 2020
+
+**Today's Progress**: Today I've learned about 'methods as props' and 'lift state' up in React.
+
+**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/lifting-state-up.html) and [this video](https://www.youtube.com/watch?v=QpfyjwhY9kg&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=15)
+
+**Link to work:** [Demo](https://rb.gy/d949kz) - [Code](https://rb.gy/s5uj3q)
+
 
