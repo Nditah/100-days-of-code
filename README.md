@@ -162,4 +162,12 @@
 
 **Link to work:** [Demo](https://rb.gy/d949kz) - [Code](https://rb.gy/s5uj3q)
 
+### Day 20: October 1, 2020
+
+**Today's Progress**: Today I've learned about Composition in React.
+
+**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/composition-vs-inheritance.html)
+
+**Link to work:** [Demo](shorturl.at/oyHI2) - [Code](shorturl.at/cpqHY)
+
 
