@@ -168,6 +168,6 @@
 
 **Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/composition-vs-inheritance.html)
 
-**Link to work:** [Demo](shorturl.at/oyHI2) - [Code](shorturl.at/cpqHY)
+**Link to work:** [Demo](shorturl.at/dsELP) - [Code](shorturl.at/alwFK)
 
 
