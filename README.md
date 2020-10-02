@@ -170,4 +170,12 @@
 
 **Link to work:** [Demo](https://bit.ly/3jj8j7H) - [Code](https://bit.ly/3l3wJm1)
 
+### Day 21: October 2, 2020
+
+**Today's Progress**: Analyzed Component Lifecycle Methods and their behavior in detail.
+
+**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/react-component.html) and [this video](https://bit.ly/33lQ2AN)
+
+**Link to work:** [Code](https://bit.ly/2ESAlaZ)
+
 
