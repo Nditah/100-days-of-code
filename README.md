@@ -184,6 +184,6 @@
 
 **Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/thinking-in-react.html)
 
-**Link to work:** [Demo](https://relaxed-haibt-7233e2.netlify.app/) [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day22%20-%20Thinking-in-React/src)
+**Link to work:** [Demo](https://relaxed-haibt-7233e2.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day22%20-%20Thinking-in-React/src)
 
 
