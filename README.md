@@ -180,10 +180,18 @@
 
 ### Day 22: October 3, 2020
 
-**Today's Progress**: Created a mock of the UI Components and its hierarchy, then worked on the code (static).
+**Today's Progress**: Created a mock of the UI Components and its hierarchy, then worked on the code (static) for 'Products Filter'.
 
 **Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/thinking-in-react.html)
 
 **Link to work:** [Demo](https://relaxed-haibt-7233e2.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day22%20-%20Thinking-in-React/src)
+
+### Day 23: October 4, 2020
+
+**Today's Progress**: Continued working on 'Products Filter': added states and inverse data flow.
+
+**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/thinking-in-react.html)
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day23-Thinking-in-React-pt2-src)
 
 
