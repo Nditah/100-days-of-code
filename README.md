@@ -194,4 +194,12 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day23-Thinking-in-React-pt2-src)
 
+### Day 24: October 5, 2020
+
+**Today's Progress**: Started working on a more complex exercise project: Movie Database.
+
+**Thoughts:** Inspired from: [The docs](https://www.youtube.com/watch?v=ufodJVcpmps&t=1665s)
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day24%20-%20src)
+
 
