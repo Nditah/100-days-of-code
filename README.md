@@ -202,4 +202,12 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day24%20-%20src)
 
+### Day 25: October 7, 2020
+
+**Today's Progress**: Learned about Fragments, Pure Components and the useState Hook in React.
+
+**Thoughts:** Inspired from: [This video](https://www.youtube.com/watch?v=RZ5wKYbOM_I&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=48) and [the docs](https://reactjs.org/docs/hooks-state.html)
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day25-React-Hooks-src)
+
 
