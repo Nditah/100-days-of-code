@@ -210,4 +210,12 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day25-React-Hooks-src)
 
+### Day 25: October 7, 2020
+
+**Today's Progress**: Learned about the useEffect Hook in React: conditionally run effects, run effects only once, useEffect with cleanup.
+
+**Thoughts:** Inspired from: [This video](https://www.youtube.com/watch?v=06Y6aJzTmXY&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=6) and [the docs](https://reactjs.org/docs/hooks-effect.html)
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day26-useEffect-Hook-src)
+
 
