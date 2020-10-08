@@ -216,6 +216,6 @@
 
 **Thoughts:** Inspired from: [This video](https://www.youtube.com/watch?v=06Y6aJzTmXY&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=6) and [the docs](https://reactjs.org/docs/hooks-effect.html)
 
-**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day26-useEffect-Hook-src) - [Demo](https://app.netlify.com/sites/xenodochial-johnson-0f5bad/overview)
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day26-useEffect-Hook-src) - [Demo](https://xenodochial-johnson-0f5bad.netlify.app/)
 
 
