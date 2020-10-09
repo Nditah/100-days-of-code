@@ -142,7 +142,7 @@
 
 **Today's Progress**: Today I've learned about Lists and Keys in React. 
 
-**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/lists-and-keys.html), [this article](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318) and [this video](https://www.youtube.com/watch?v=0sasRxl35_8&t=48s)
+**Thoughts:** Inspired by: [The docs](https://reactjs.org/docs/lists-and-keys.html), [this article](https://medium.com/@robinpokorny/index-as-a-key-is-an-anti-pattern-e0349aece318) and [this video](https://www.youtube.com/watch?v=0sasRxl35_8&t=48s)
 
 **Link to work:** [Demo](https://rb.gy/f0ftcy) - [Code](https://rb.gy/vcelwe)
 
@@ -150,7 +150,7 @@
 
 **Today's Progress**: Today I've learned about Forms in React and reviewed all the React concepts learned until now.
 
-**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/forms.html) and [this video](https://www.youtube.com/watch?v=7Vo_VCcWupQ&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=21)
+**Thoughts:** Inspired by: [The docs](https://reactjs.org/docs/forms.html) and [this video](https://www.youtube.com/watch?v=7Vo_VCcWupQ&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=21)
 
 **Link to work:** [Demo](https://rb.gy/ketm2r) - [Code](https://rb.gy/l4xbid)
 
@@ -158,7 +158,7 @@
 
 **Today's Progress**: Today I've learned about 'methods as props' and 'lift state up' in React.
 
-**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/lifting-state-up.html) and [this video](https://www.youtube.com/watch?v=QpfyjwhY9kg&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=15)
+**Thoughts:** Inspired by: [The docs](https://reactjs.org/docs/lifting-state-up.html) and [this video](https://www.youtube.com/watch?v=QpfyjwhY9kg&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=15)
 
 **Link to work:** [Demo](https://rb.gy/d949kz) - [Code](https://rb.gy/s5uj3q)
 
@@ -166,7 +166,7 @@
 
 **Today's Progress**: Today I've learned about Composition in React.
 
-**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/composition-vs-inheritance.html)
+**Thoughts:** Inspired by: [The docs](https://reactjs.org/docs/composition-vs-inheritance.html)
 
 **Link to work:** [Demo](https://bit.ly/3jj8j7H) - [Code](https://bit.ly/3l3wJm1)
 
@@ -174,7 +174,7 @@
 
 **Today's Progress**: Analyzed Component Lifecycle Methods and their behavior in detail.
 
-**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/react-component.html) and [this video](https://bit.ly/33lQ2AN)
+**Thoughts:** Inspired by: [The docs](https://reactjs.org/docs/react-component.html) and [this video](https://bit.ly/33lQ2AN)
 
 **Link to work:** [Code](https://bit.ly/2ESAlaZ)
 
@@ -182,7 +182,7 @@
 
 **Today's Progress**: Created a mock of the UI Components and its hierarchy, then worked on the code (static) for 'Products Filter'.
 
-**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/thinking-in-react.html)
+**Thoughts:** Inspired by: [The docs](https://reactjs.org/docs/thinking-in-react.html)
 
 **Link to work:** [Demo](https://relaxed-haibt-7233e2.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day22%20-%20Thinking-in-React/src)
 
@@ -190,7 +190,7 @@
 
 **Today's Progress**: Continued working on 'Products Filter': added states and inverse data flow.
 
-**Thoughts:** Inspired from: [The docs](https://reactjs.org/docs/thinking-in-react.html)
+**Thoughts:** Inspired by: [The docs](https://reactjs.org/docs/thinking-in-react.html)
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day23-Thinking-in-React-pt2-src)
 
@@ -198,7 +198,7 @@
 
 **Today's Progress**: Started working on a more complex exercise project: Movie Database.
 
-**Thoughts:** Inspired from: [This video](https://www.youtube.com/watch?v=ufodJVcpmps&t=1665s)
+**Thoughts:** Inspired by: [This video](https://www.youtube.com/watch?v=ufodJVcpmps&t=1665s)
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day24%20-%20src)
 
@@ -206,7 +206,7 @@
 
 **Today's Progress**: Learned about Fragments, Pure Components and the useState Hook in React.
 
-**Thoughts:** Inspired from: [This video](https://www.youtube.com/watch?v=RZ5wKYbOM_I&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=48) and [the docs](https://reactjs.org/docs/hooks-state.html)
+**Thoughts:** Inspired by: [This video](https://www.youtube.com/watch?v=RZ5wKYbOM_I&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=48) and [the docs](https://reactjs.org/docs/hooks-state.html)
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day25-React-Hooks-src)
 
@@ -214,8 +214,17 @@
 
 **Today's Progress**: Learned about the useEffect Hook in React: conditionally run effects, run effects only once, useEffect with cleanup.
 
-**Thoughts:** Inspired from: [This video](https://www.youtube.com/watch?v=06Y6aJzTmXY&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=6) and [the docs](https://reactjs.org/docs/hooks-effect.html)
+**Thoughts:** Inspired by: [This video](https://www.youtube.com/watch?v=06Y6aJzTmXY&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=6) and [the docs](https://reactjs.org/docs/hooks-effect.html)
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day26-useEffect-Hook-src) - [Demo](https://xenodochial-johnson-0f5bad.netlify.app/)
+
+### Day 27: October 9, 2020
+
+**Today's Progress**: Created a todo app in React.
+
+**Thoughts:** Inspired by: [This video](https://www.youtube.com/watch?v=pCA4qpQDZD8)
+
+**Link to work:** [Demo](https://gifted-curran-130a2d.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day27-TodoApp-React)  
+
 
 
