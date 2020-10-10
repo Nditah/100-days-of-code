@@ -226,5 +226,13 @@
 
 **Link to work:** [Demo](https://gifted-curran-130a2d.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day27-TodoApp-React)  
 
+### Day 28: October 10, 2020
+
+**Today's Progress**: Today I've deepened my understanding of useEffect in React and I've learned how to fetch data with it.
+
+**Thoughts:** Inspired by: [This video](https://www.youtube.com/watch?v=bYFYF2GnMy8&list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A&index=12)
+
+**Link to work:** [Demo](https://peaceful-wilson-358778.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day28-Fetch-with-useEffect-React)  
+
 
 
