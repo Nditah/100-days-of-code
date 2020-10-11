@@ -234,5 +234,13 @@
 
 **Link to work:** [Demo](https://peaceful-wilson-358778.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day28-Fetch-with-useEffect-React)  
 
+### Day 29: October 11, 2020
+
+**Today's Progress**: Today I've learned about Context and the useContext hook in React.
+
+**Thoughts:** Inspired by: [The docs](https://reactjs.org/docs/context.html)
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day29-useContext-Hook-React-src)  
+
 
 
