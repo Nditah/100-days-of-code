@@ -242,5 +242,13 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day29-useContext-Hook-React-src)  
 
+### Day 30: October 12, 2020
+
+**Today's Progress**: Created a Recipe App with React.
+
+**Thoughts:** Programming in React starts becoming pretty natural and I can finally start developing interesting stuff with it. 
+
+**Link to work:** [Demo](https://focused-austin-064e76.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day30-RecipeAPP-src)  
+
 
 
