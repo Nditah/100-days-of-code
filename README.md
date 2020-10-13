@@ -248,7 +248,15 @@
 
 **Thoughts:** Programming in React starts becoming pretty natural and I can finally start developing interesting stuff with it. 
 
-**Link to work:** [Demo](https://focused-austin-064e76.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day30-RecipeAPP-src)  
+**Link to work:** [Demo](https://focused-austin-064e76.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day30-RecipeAPP-src) 
+
+### Day 31: October 13, 2020
+
+**Today's Progress**:  Built the first part of 'Github Finder'.
+
+**Thoughts:** Gone over new concepts such as: propTypes and enviroment variables and old concepts such as components (functional and class based) , states and props.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day31-GithubFinder-pt1-src)  
 
 
 
