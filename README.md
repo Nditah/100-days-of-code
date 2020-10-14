@@ -258,5 +258,13 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day31-GithubFinder-pt1-src)  
 
+### Day 32: October 14, 2020
+
+**Today's Progress**:  Implemented search button, clear button and alert in 'Github Finder'.
+
+**Thoughts:** Gone over new concepts such as: routing in React and old concepts such as destructuring and passing props up.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day32-GithubFinder-pt2)  
+
 
 
