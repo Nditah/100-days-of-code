@@ -266,5 +266,13 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day32-GithubFinder-pt2)  
 
+### Day 32: October 14, 2020
+
+**Today's Progress**:  Learned more in details about React Routing.
+
+**Thoughts:** Practiced through building a simple app that uses Routes and Links to render different components.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day33-React-routing) 
+
 
 
