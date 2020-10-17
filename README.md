@@ -280,7 +280,7 @@
 
 **Thoughts:** Finished the first version of the app.
 
-**Link to work:** [Demo](https://distracted-curran-372568.netlify.app/) [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day34-Github-Finder-pt3) 
+**Link to work:** [Demo](https://distracted-curran-372568.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day34-Github-Finder-pt3) 
 
 
 
