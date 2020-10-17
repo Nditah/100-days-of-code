@@ -266,13 +266,21 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day32-GithubFinder-pt2)  
 
-### Day 32: October 14, 2020
+### Day 33: October 16, 2020
 
 **Today's Progress**:  Learned more in details about React Routing.
 
 **Thoughts:** Practiced through building a simple app that uses Routes and Links to render different components.
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day33-React-routing) 
+
+### Day 34: October 17, 2020
+
+**Today's Progress**:  Implemented new functionalities to Github Finder.
+
+**Thoughts:** Finished the first version of the app.
+
+**Link to work:** [Demo](https://distracted-curran-372568.netlify.app/) [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day34-Github-Finder-pt3) 
 
 
 
