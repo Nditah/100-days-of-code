@@ -282,5 +282,13 @@
 
 **Link to work:** [Demo](https://distracted-curran-372568.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day34-Github-Finder-pt3) 
 
+### Day 35: October 18, 2020
+
+**Today's Progress**:  Refactored Github Finder into functional components and hooks and learned about the useReducer hook.
+
+**Thoughts:** Exciting improvements in handling different syntax for React components.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day35-Refactored-GithubFinder-Practiced-useReducer-src)
+
 
 
