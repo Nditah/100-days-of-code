@@ -290,5 +290,13 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day35-Refactored-GithubFinder-Practiced-useReducer-src)
 
+### Day 36: October 19, 2020
+
+**Today's Progress**:  Dived deeply into the useReducer and useContext hooks: used them for both local and global state management and data fetching.
+
+**Thoughts:** I find these new concepts altogether pretty overwhelming for now. I'm gonna spend some more time on it to fully understand them before moving onto my next steps.
+
+**Link to work:** [Demo](https://priceless-nightingale-c41d63.netlify.app/) - [Code](https://bit.ly/3j878qN)
+
 
 
