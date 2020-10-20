@@ -298,5 +298,13 @@
 
 **Link to work:** [Demo](https://priceless-nightingale-c41d63.netlify.app/) - [Code](https://bit.ly/3j878qN)
 
+### Day 37: October 20, 2020
+
+**Today's Progress**:  Used useContext in order to build this simple addMovie app.
+
+**Thoughts:** Even though useContext is considered one of the simplest hooks to use, I'm for some reason, struggling to remember and put into use its syntax. That's why I spent some more hours practicing it.
+
+**Link to work:** [Demo](https://tender-dijkstra-a822d1.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day37-addMovie-practicing-useContext-Hook)
+
 
 
