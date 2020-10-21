@@ -306,5 +306,13 @@
 
 **Link to work:** [Demo](https://tender-dijkstra-a822d1.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day37-addMovie-practicing-useContext-Hook)
 
+### Day 38: October 21, 2020
+
+**Today's Progress**:  Practiced the useReducer hook.
+
+**Thoughts:** useReducer is definitely one of the hardest hooks to use but definitely a hook you've got to know if you want to develop larger and more interesting apps. That's why I'm reiterating these concepts over and over again. 
+
+**Link to work:** [Demo](https://cranky-rosalind-07a22f.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day38-Practicing-useReducer.src)
+
 
 
