@@ -314,5 +314,21 @@
 
 **Link to work:** [Demo](https://cranky-rosalind-07a22f.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day38-Practicing-useReducer.src)
 
+### Day 39: October 23, 2020
+
+**Today's Progress**:  Implemented context and useReducer in Github Finder. 
+
+**Thoughts:** Learned about different ways of implementing context into apps.
+
+**Link to work:** [Code](https://bit.ly/31vmKOY)
+
+### Day 40: October 24, 2020
+
+**Today's Progress**:  Refactored Github Finder to useContext and useReducer. 
+
+**Thoughts:** Now App.js is not as crowded, the entire app is much more scalable and I've got a much clearner file structure.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day40-Refactored-GithubFinder-useContext-useReducer)
+
 
 
