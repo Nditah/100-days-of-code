@@ -330,5 +330,13 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day40-Refactored-GithubFinder-useContext-useReducer)
 
+### Day 41: October 25, 2020
+
+**Today's Progress**: Prepared and deployed the app to Netlify.
+
+**Thoughts:** Went through the process of creating this app step by step once again. In the next 6 days I'm planning to create 6 functioning React Apps.
+
+**Link to work:** [Code](https://bit.ly/3mhiFWH)
+
 
 
