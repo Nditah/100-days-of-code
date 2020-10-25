@@ -334,9 +334,9 @@
 
 **Today's Progress**: Prepared and deployed the app to Netlify.
 
-**Thoughts:** Went through the process of creating this app step by step once again. In the next 6 days I'm planning to create 6 functioning React Apps.
+**Thoughts:** Went through the process of creating this app step by step once again. I plan now to create one React App each day for the next six days.
 
-**Link to work:** [Code](https://bit.ly/3mhiFWH)
+**Link to work:** [Demo](https://bit.ly/3mhiFWH)
 
 
 
