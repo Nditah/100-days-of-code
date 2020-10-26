@@ -338,5 +338,14 @@
 
 **Link to work:** [Demo](https://bit.ly/3mhiFWH)
 
+### Day 42: October 26, 2020
+
+**Today's Progress**: Recreated Breaking Bad Cast
+
+**Thoughts:** First of the six React projects I'll be building.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day42-Breaking-Bad-Cast-src) - [Demo](https://nifty-kirch-f872d1.netlify.app/)
+
+
 
 
