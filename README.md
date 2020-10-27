@@ -348,9 +348,9 @@
 
 ### Day 43: October 27, 2020
 
-**Today's Progress**: Started working on Weather App challenge from DevChallenges.io
+**Today's Progress**: Started working on Weather App challenge from [DevChallenges.io](https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv)
 
-**Thoughts:** Second of the six React projects I'll be building. [Resource:](https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv)
+**Thoughts:** Second of the six React projects I'll be building.
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day43-WeatherApp-pt1-src-)
 
