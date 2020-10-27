@@ -346,6 +346,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day42-Breaking-Bad-Cast-src) - [Demo](https://nifty-kirch-f872d1.netlify.app/)
 
+### Day 43: October 27, 2020
+
+**Today's Progress**: Started working on Weather App challenge from DevChallenges.io
+
+**Thoughts:** Second of the six React projects I'll be building. [Resource:](https://devchallenges.io/challenges/mM1UIenRhK808W8qmLWv)
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day43-WeatherApp-pt1-src-)
+
 
 
 
