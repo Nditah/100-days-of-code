@@ -354,6 +354,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day43-WeatherApp-pt1-src-)
 
+### Day 44: October 28, 2020
+
+**Today's Progress**: Continued working on the Weather App. I've been trying to implement context and useReducer to the app to make it more scalable.
+
+**Thoughts:** I've been stuck the entire day, trying to figure out how to refactor the whole app without succeeding. Even though a little frustrating at times because I did not get any tangible results, it's been a great learning day!
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day44-WeatherApp-pt2-src)
+
 
 
 
