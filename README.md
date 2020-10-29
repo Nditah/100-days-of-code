@@ -362,6 +362,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day44-WeatherApp-pt2-src)
 
+### Day 45: October 28, 2020
+
+**Today's Progress**: Worked on the WeatherApp. Finally managed to properly implement context and useReducer.
+
+**Thoughts:** I've been stuck and lost for quite some time on updating the coordinates and fetching the current day's data from the api especially because useReducer is not as familiar for me as useState. I've been learning loads until now from this project and I'm enjoying working on it very much.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day45-WeatherApp-pt3-src)
+
 
 
 
