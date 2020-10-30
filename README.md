@@ -371,5 +371,14 @@
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day45-WeatherApp-pt3-src)
 
 
+### Day 46: October 29, 2020
+
+**Today's Progress**: Worked on the WeatherApp. Managed to display correctly all fetched data and to implement new modes to the app through reducer and context
+
+**Thoughts:** This is fun! It feels like the first learning phase is over and now it's time for action!
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day46-WeatherApp-pt4-src)
+
+
 
 
