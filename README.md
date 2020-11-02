@@ -379,6 +379,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day46-WeatherApp-pt4-src)
 
+### Day 47: November 2, 2020
+
+**Today's Progress**: Worked on the Weather App. Managed to solve major issues, implemented search and temperature unit converter. Now working on fetching data asyncronusly based on geolocalization.
+
+**Thoughts:** I've been struggling a lot but also learned a lot through this project.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day47-WeatherApp-pt5-src)
+
 
 
 
