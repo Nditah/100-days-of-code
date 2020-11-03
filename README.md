@@ -387,6 +387,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day47-WeatherApp-pt5-src)
 
+### Day 48: November 3, 2020
+
+**Today's Progress**: Finished the Weather App. Implemented geolocalization and responsivness, cleaned up the code, organized the file structure better, deployed to Netlify.
+
+**Thoughts:** I found the API used for this project very hard to work with but the whole project has definetely tought me a lot.
+
+**Link to work:** [Demo](https://vigorous-gates-448415.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day48-WeatherApp-final-src)
+
 
 
 
