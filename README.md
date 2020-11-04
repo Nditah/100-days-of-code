@@ -395,6 +395,14 @@
 
 **Link to work:** [Demo](https://vigorous-gates-448415.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day48-WeatherApp-final-src)
 
+### Day 49: November 4, 2020
+
+**Today's Progress**: Started working on the Country Quiz App from [Dev Challenges](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8)
+
+**Thoughts:** Halfway through the project, I'm pretty satisfied with the outcomes so far. Still struggling with combining async functionalities to useEffect. Improved scalability and structure of the project compared to the previous ones. 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day49-CountryQuiz-pt1-src)
+
 
 
 
