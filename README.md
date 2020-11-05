@@ -407,7 +407,7 @@
 
 **Today's Progress**: Finished Country Quiz App from [Dev Challenges](https://devchallenges.io/challenges/Bu3G2irnaXmfwQ8sZkw8). Libraries used: React JS and underscore JS
 
-**Thoughts:** Interesting project. A little easier than the previous one but it has caused me some serious headaches. Mixed up some Vanilla JS Dom manipulation with React concepts, not sure if that's good practice but hey the thing runs!
+**Thoughts:** Interesting project. A little easier than the previous one but it has caused me some serious headaches. Mixed up some Vanilla JS Dom manipulation with React concepts, not sure if that's good practice but hey the app runs smoothly!
 
 **Link to work:** [Demo](https://admiring-mestorf-b58907.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day50-CountryQuiz-final-src)
 
