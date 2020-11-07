@@ -411,5 +411,13 @@
 
 **Link to work:** [Demo](https://admiring-mestorf-b58907.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day50-CountryQuiz-final-src)
 
+### Day 51: November 7, 2020
+
+**Today's Progress**: Started Github Jobs challenge from [Dev Challenges](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps).
+
+**Thoughts:** Finished creating the UI with the styling and created the entire file structure.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day51-Github-jobs-src)
+
 
 
