@@ -419,5 +419,13 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day51-Github-jobs-src)
 
+### Day 52: November 8, 2020
+
+**Today's Progress**: Continued working on Github Jobs challenge from [Dev Challenges](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps).
+
+**Thoughts:** Implemented the 'Filter by location, by keyword and bt type of contract' functionalities.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day52-GithubJobs-pt2-src)
+
 
 
