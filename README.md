@@ -429,11 +429,19 @@
 
 ### Day 53: November 9, 2020
 
-**Today's Progress**: Completed Github Jobs challenge from [Dev Challenges](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps).
+**Today's Progress**: (Almost) Completed Github Jobs challenge from [Dev Challenges](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps).
 
 **Thoughts:** Implemented 'Default location functionality' and added Details page and description. 
 
 **Link to work:** [Demo](https://hardcore-johnson-30c27a.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day53-GithubJobs-pt3-src)
+
+### Day 54: November 10, 2020
+
+**Today's Progress**: (Final) Completed Github Jobs challenge from [Dev Challenges](https://devchallenges.io/challenges/TtUjDt19eIHxNQ4n5jps).
+
+**Thoughts:**  Last adjustments: Improved default location functionality and responsiveness, added pagination and application form details.
+
+**Link to work:** [Demo](https://musing-wescoff-5c1ed2.netlify.app/) - [Code](https://github.com/guarmo/DevChallenges/tree/main/github-jobs)
 
 
 
