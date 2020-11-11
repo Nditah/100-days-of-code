@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+    /* display: grid;
+    grid-template-rows: auto;
+    grid-template-areas: 
+    "two two"
+    "two three"; */
+}
+
+body {
+    padding: 40px;
+}
+
+.one {
+    /* border: 1px solid blue;
+    width: 50vh; */
+}
+
+.two {
+    /* border: 1px solid red; */
+}
