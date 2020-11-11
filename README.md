@@ -443,5 +443,13 @@
 
 **Link to work:** [Demo](https://musing-wescoff-5c1ed2.netlify.app/) - [Code](https://github.com/guarmo/DevChallenges/tree/main/github-jobs)
 
+### Day 55: November 11, 2020
+
+**Today's Progress**: Started working on a Covid19 Tracker.
+
+**Thoughts:**  Technologies used: React, Moment JS, ChartJs. API: [COVID-19 (1.0.2)](https://api-sports.io/documentation/covid-19/v1)
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day55-Covid19-Tracker-src)
+
 
 
