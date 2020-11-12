@@ -1,0 +1,12 @@
+.switchMode {
+    margin: 20px 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+label {
+    margin-left: 6px;
+}
+input[type='radio'] {
+    margin-left: 10px;
+}

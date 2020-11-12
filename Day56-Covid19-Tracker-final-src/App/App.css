@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --black: #282538;
+  --blue: #334680;
+  --gray: #b9bdcf;
+  --btnBlue: #1e86ff;
+}
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+.btn:hover {
+  opacity: 0.8;
+}
+body {
+  background-color: var(--black);
+  color: var(--gray);
+  font-family: 'Roboto', sans-serif;
+  padding: 40px;
+}
+.icon {
+  width: 70px;
+  margin-right: 10px;
+}
+.title {
+  display: flex;
+  align-items: center;
+}
+.inputGroup {
+  width: 100%;
+  height: 50px;
+  padding: 5px;
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+  margin: 20px 0;
+}
+
+.textInput {
+  border: none;
+  background-color: #ffffff;
+  padding-left: 20px;
+  width: 100%;
+  font-family: Arial, FontAwesome;
+}
+
+.btn {
+  cursor: pointer;
+  border: none;
+  background-color: var(--btnBlue);
+  color: #fff;
+  border-radius: 5px;
+}
+
+.submitBtn {
+  width: 146px;
+}
+
+.country {
+  margin: 40px 0;
+  text-align: center;
+}
+.country h1 {
+  text-transform: uppercase;
+}
+.two {
+  display: flex;
+  margin: 40px 0;
+}
+
+/* Loader */
+.loaderContainer {
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loader {
+  border: 16px solid var(--gray);
+  border-top: 16px solid var(--btnBlue);
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Media queries */
+@media screen and (max-width: 600px) {
+  body {
+    padding: 20px;
+  }
+  .icon {
+    width: 50px;
+  }
+  .switchMode {
+    justify-content: center !important;
+    font-size: 12px
+  }
+  .title {
+    display: block;
+    font-size: 12px
+  }
+  .title h1 {
+    font-size: 20px;
+  }
+  .country h1 {
+    font-size: 25px;
+  }
+  .population {
+    font-size: 12px
+  }
+  .graphOne h3,
+  .header .title,
+  .graphThree h3 {
+    text-align: center;
+    font-size: 12px
+  }
+  .two {
+    display: flex;
+    flex-direction: column;
+  }
+  .graphContainerTwo {
+    width: 100% !important;
+    height: auto !important;
+    margin-right: initial !important;
+}
+.graphContainerThree {
+    width: 100% !important;
+    height: auto !important;
+    margin-left: initial !important;
+}
+.graphThree,
+.graphTwo {
+    width: 100%;
+    height: auto;
+}
+}

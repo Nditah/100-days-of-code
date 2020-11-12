@@ -1,0 +1,19 @@
+h3 {
+    margin: 10px 0;
+}
+
+.graphContainerTwo {
+    width: 47.5%;
+    height: auto;
+    margin-right: 2.5%;
+}
+.graphContainerThree {
+    width: 47.5%;
+    height: auto;
+    margin-left: 2.5%;
+}
+.graphThree,
+.graphTwo {
+    width: 100%;
+    height: auto;
+}

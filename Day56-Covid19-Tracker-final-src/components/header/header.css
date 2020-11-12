@@ -1,0 +1,9 @@
+.title h1 {
+    text-transform: uppercase;
+}
+ 
+.title h1 span {
+    text-transform: lowercase;
+    font-weight: 500;
+    opacity: 0.5;
+}
