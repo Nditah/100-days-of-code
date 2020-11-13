@@ -451,5 +451,23 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day55-Covid19-Tracker-src)
 
+### Day 56: November 12, 2020
+
+**Today's Progress**: Covid19 Tracker completed!
+
+**Thoughts:**  It was thought and created entirely by myself.
+
+**Link to work:** [](https://bit.ly/2IxIZNs) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day56-Covid19-Tracker-final-src)
+
+### Day 57: November 13, 2020
+
+**Today's Progress**: Read TailwindCSS documentation. Played around with building some simple UI components.
+
+**Thoughts:** Such a powerful tool! I'm gonna be using it in the next few project.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day57-TailwindCSS-src)
+
+
+
 
 
