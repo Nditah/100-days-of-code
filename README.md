@@ -467,6 +467,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day57-TailwindCSS-src)
 
+### Day 57: November 14, 2020
+
+**Today's Progress**: Completed '404 not found' from [Dev Challenges](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY).
+
+**Thoughts:** Easy project aimed to deepen my understanding of TailwindCSS.
+
+**Link to work:** [Demo](https://loving-goldwasser-70ca21.netlify.app/) - [Code](https://github.com/guarmo/DevChallenges/tree/main/404-not-found)
+
 
 
 
