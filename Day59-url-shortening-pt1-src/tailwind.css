@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.root,
+#root,
+#docs-root {
+  --cyan: #2acfcf;
+  --darkViolet: #3b3054;
+  --red: #f46262;
+  --grayishViolet: #bfbfbf;
+  --veryDarkBlue: #35323e;
+  --vDViolet: #232127;
+}

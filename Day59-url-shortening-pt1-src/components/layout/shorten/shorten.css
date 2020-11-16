@@ -1,0 +1,11 @@
+@media screen and (max-width: 640px) {
+    .shorten {
+        background-image: url('../../../assets/bg-shorten-mobile.svg');
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .shorten {
+        background-image: url('../../../assets/bg-shorten-desktop.svg');
+    }
+}
