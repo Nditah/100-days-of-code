@@ -467,13 +467,21 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day57-TailwindCSS-src)
 
-### Day 57: November 14, 2020
+### Day 58: November 14, 2020
 
 **Today's Progress**: Completed '404 not found' from [Dev Challenges](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY).
 
 **Thoughts:** Easy project aimed to deepen my understanding of TailwindCSS.
 
 **Link to work:** [Demo](https://loving-goldwasser-70ca21.netlify.app/) - [Code](https://github.com/guarmo/DevChallenges/tree/main/404-not-found)
+
+### Day 59: November 16, 2020
+
+**Today's Progress**: Started 'url shortening' challenge by [FrontendMentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
+
+**Thoughts:** Setted up TailwindCSS in React and managed to use CSS variables with Tailwind. Build the folder structure and (almost) completed the fully responsive UI.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day59-url-shortening-pt1-src)
 
 
 
