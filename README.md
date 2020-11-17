@@ -483,6 +483,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day59-url-shortening-pt1-src)
 
+### Day 60: November 17, 2020
+
+**Today's Progress**: Kept on working on 'url shortening' challenge by [FrontendMentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
+
+**Thoughts:** Refined the UI, implemented React hooks and started working on the general app logic.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day60-url-shortening-pt2)
+
 
 
 
