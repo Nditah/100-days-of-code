@@ -1,0 +1,48 @@
+.card {
+    height: 250px;
+    max-height: 250px;
+}
+.wrap {
+    position: relative;
+}
+.line {
+    background-color: var(--cyan);
+    width: 50%;
+    height: 8px;
+    position: absolute;
+    top: 450px;
+}
+@media only screen and (min-width: 1024px) {
+    .card {
+        height: 250px;
+        min-height: 250px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .card {
+        height: 350px;
+        max-height: 350px;
+        position: relative;
+    }
+    .card .card-img {
+        position: absolute;
+        top: -40px;
+        left: 20px;
+    }
+}
+@media only screen and (max-width: 640px) {
+    .card {
+        height: 250px;
+        min-height: 250px;
+        position: relative;
+    }
+    .card .card-img {
+        position: absolute;
+        top: -36px;
+    }
+    .line {
+        transform: rotate(90deg);
+        width: 650px;
+        margin-top: 100px;
+    }
+}

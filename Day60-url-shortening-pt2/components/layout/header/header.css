@@ -1,0 +1,36 @@
+
+.imgDiv {
+  grid-area: imgDiv;
+}
+.img {
+  max-width: 140%;
+  margin-left: 200px;
+}
+.textDiv {
+  grid-area: textDiv;
+  min-width: 50%;
+}
+
+.gridHeader {
+    display: flex;
+    width: 100%;
+  }
+
+@media screen and (max-width:640px) {
+    .imgDiv {
+        width: 100%;
+        overflow: hidden;
+    }
+    .img {
+      max-width: 100%;
+    }
+    .textDiv {
+        width: 100%;
+    }
+    .gridHeader {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 'imgDiv'
+                         'textDiv';
+    }
+}
