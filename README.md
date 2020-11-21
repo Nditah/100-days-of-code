@@ -491,6 +491,31 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day60-url-shortening-pt2)
 
+### Day 61: November 18, 2020
+
+**Today's Progress**: Worked on the logic for 'url shortening' challenge by  [FrontendMentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
+
+**Thoughts:** Just a few adjustments before the completion of the project! 
+
+**Link to work:** 
+
+### Day 62: November 19, 2020
+
+**Today's Progress**: Completed 'Shortly' challenge by  [FrontendMentor](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G)
+
+**Thoughts:** Built with: React JS & Tailwind CSS
+
+**Link to work:** [Demo](http://shrtco.de/upSu7) - [Code](http://shrtco.de/cDNyfS)
+
+### Day 63: November 21, 2020
+
+**Today's Progress**: Completed 'Profile Card Component' challenge by  [FrontendMentor](https://www.frontendmentor.io/solutions/responsive-layout-built-using-css3-html5-and-tailwind-css-u8ZUKpjXi)
+
+**Thoughts:** Built with Tailwind CSS.
+
+**Link to work:** [Demo](https://elastic-goldstine-7d1c01.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day63-profile-card-component)
+
+
 
 
 
