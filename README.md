@@ -523,6 +523,18 @@
 
 **Link to work:** [Demo](https://goofy-bhabha-119907.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day64-My-team-page)
 
+### Day 65: November 23, 2020
+
+**Today's Progress**: Today I started by learning the basic Terminal commands and Node.js.
+
+**Thoughts:** After nearly 8 months of focusing purely on front-end development I'm excited to announce that it's now time to start exploring the back-end!
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day65-Terminal-NodeJS/Folder3)
+
+
+
+
+
 
 
 
