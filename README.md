@@ -515,6 +515,15 @@
 
 **Link to work:** [Demo](https://elastic-goldstine-7d1c01.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day63-profile-card-component)
 
+### Day 64: November 22, 2020
+
+**Today's Progress**: Completed 'My team page' challenge by  [DevChallenges](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U)
+
+**Thoughts:** Built with Sass.
+
+**Link to work:** [Demo](https://goofy-bhabha-119907.netlify.app/) - [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day64-My-team-page)
+
+
 
 
 
