@@ -417,7 +417,7 @@
 
 **Thoughts:** Finished creating the UI with the styling and created the entire file structure.
 
-**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day51-Github-jobs-src)
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day66-npm-express)
 
 ### Day 52: November 8, 2020
 
@@ -528,6 +528,14 @@
 **Today's Progress**: Today I started by learning the basic Terminal commands and Node.js.
 
 **Thoughts:** After nearly 8 months of focusing purely on front-end development I'm excited to announce that it's now time to start exploring the back-end!
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day65-Terminal-NodeJS/Folder3)
+
+### Day 66: November 24, 2020
+
+**Today's Progress**: Explored Modules and the NPM universe, and learned how to create servers with Express.
+
+**Thoughts:** 
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day65-Terminal-NodeJS/Folder3)
 
