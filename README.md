@@ -539,6 +539,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day65-Terminal-NodeJS/Folder3)
 
+### Day 67: November 25, 2020
+
+**Today's Progress**: Learned a ton of new concepts: creating a basic Express server, middleWare, handling different request types, routes and templates.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day67-More-ExpressJS)
+
 
 
 
