@@ -547,6 +547,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day67-More-ExpressJS)
 
+### Day 68: November 26, 2020
+
+**Today's Progress**: Learned how to implement Bootstrap in Express, how to use EJS Partials and how to parse request body.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day68)
+
 
 
 
