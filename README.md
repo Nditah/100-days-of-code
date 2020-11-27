@@ -555,6 +555,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day68)
 
+### Day 69: November 27, 2020
+
+**Today's Progress**: Learned how to define RESTful routes and to create a basic CRUD application.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day69-RESTful-routes)
+
 
 
 
