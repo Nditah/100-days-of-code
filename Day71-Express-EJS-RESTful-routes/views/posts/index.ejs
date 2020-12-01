@@ -1,0 +1,14 @@
+<%- include('partials/head') %>
+    <h1>Posts</h1>
+    <% for (let p of posts) {%>
+        <ul>
+            <li><%= p.post %> <b><%= p.user %></b>
+            <a href="/posts/<%= p.id %>">Details</a>
+            </li>
+        </ul>
+        <% } %>
+
+        <a href="/">Back to home</a>
+        <a href="/posts/new">Create new post</a>
+</body>
+</html>

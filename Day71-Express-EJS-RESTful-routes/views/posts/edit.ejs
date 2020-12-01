@@ -1,0 +1,12 @@
+<%- include('partials/head') %>
+    <h1>Editing</h1>
+    <form method="POST" action="/posts/<%= post.id %>?_method=PATCH" >
+        <label for="post">Edit post:</label> <br>
+    <textarea name="post" id="post" cols="30" rows="10">
+        <%= post.post %>
+    </textarea>
+    <input type="submit" value="Save">
+    </form>
+    <a href="/posts">Back to posts</a>
+</body>
+</html>

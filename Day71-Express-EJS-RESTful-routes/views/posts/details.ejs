@@ -1,0 +1,11 @@
+<%- include('partials/head') %>
+    <h1>Post id: <%= post.id %></h1>
+    <h1><%= post.user %></h1>
+    <h1><%= post.post %></h1>
+    <a href="/posts">Back to posts</a>
+    <a href="/posts/<%= post.id %>/edit">Edit post</a>
+    <form method="POST" action="/posts/<%= post.id %>?_method=DELETE">
+        <input type="submit" value="Delete post">
+    </form>
+  </body>
+</html>
