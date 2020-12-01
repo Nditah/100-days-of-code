@@ -563,6 +563,22 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day69-RESTful-routes)
 
+### Day 70 : November 30, 2020
+
+**Today's Progress**: Went through Express docs once again.
+
+**Thoughts:** I've learned a lot of new concepts lately and today I decided to slow down and go over them once again before moving ahead.
+
+**Link to work:**
+
+### Day 71 : December 1, 2020
+
+**Today's Progress**: Created another CRUD application that includes: RESTful routes, EJS, uuid, partials and Tailwind CSS.
+
+**Thoughts:** These concepts were not as intuitive at first to me, that's why I'm repeating similar tasks over time to gain full control.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day71-Express-EJS-RESTful-routes)
+
 
 
 
