@@ -579,6 +579,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day71-Express-EJS-RESTful-routes)
 
+### Day 72 : December 2, 2020
+
+**Today's Progress**: Learned about databases, installed Mongo, learned about BSON and MongoDB CRUD Operations.
+
+**Thoughts:** I've created a Gist with my notes on the topic.
+
+**Link to work:** [Notes](https://gist.github.com/guarmo/ddc05ff4224d8d14df2bd69cbb46ac0c)
+
 
 
 
