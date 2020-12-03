@@ -587,6 +587,14 @@
 
 **Link to work:** [Notes](https://gist.github.com/guarmo/ddc05ff4224d8d14df2bd69cbb46ac0c)
 
+### Day 73 : December 3, 2020
+
+**Today's Progress**: Learned about: ORM/ODM's, how to connect Mongoose to Mongo, how to define a Model, Moongoose CRUD, Schema Constraints, Model Instance and Static Methods, Mongoose Middleware and Moongoose Virtuals.
+
+**Thoughts:** I've also reviewed MongoDB.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day73-Mongoose)
+
 
 
 
