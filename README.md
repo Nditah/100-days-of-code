@@ -595,6 +595,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day73-Mongoose)
 
+### Day 74 : December 4, 2020
+
+**Today's Progress**: Created a fully functioning RESTful API using Node JS, Express, MongoDB and Mongoose.
+
+**Thoughts:** What a fun exercise project!
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day74-RESTful-API) - [Notes](https://gist.github.com/guarmo/2979e8513c6334a35c3c8912e627a577)
+
 
 
 
