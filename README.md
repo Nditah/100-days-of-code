@@ -603,6 +603,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day74-RESTful-API) - [Notes](https://gist.github.com/guarmo/2979e8513c6334a35c3c8912e627a577)
 
+### Day 75 : December 5, 2020
+
+**Today's Progress**: Built a Node.js API Authentication.
+
+**Thoughts:** Packages used: @hapi/joi for validation, bcryptjs for hashing passwords, and jsonwebtoken.
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day75-NodejsAPI-JWT) 
+
 
 
 
