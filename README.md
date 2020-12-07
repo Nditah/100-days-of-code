@@ -611,6 +611,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day75-NodejsAPI-JWT) 
 
+### Day 76 : December 6, 2020
+
+**Today's Progress**: Created a basic CRUD app using Node JS, Express, MongoDB and Mongoose.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day76-Crud-Nodejs-Express-Mongoose) 
+
 
 
 
