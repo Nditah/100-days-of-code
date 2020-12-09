@@ -619,13 +619,21 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day76-Crud-Nodejs-Express-Mongoose) 
 
-### Day 77 : December 7, 2020
+### Day 77 : December 8, 2020
 
 **Today's Progress**: Started working on my first full stack code along project: YelpCamp (from Colt Steele's Web Developer Bootcamp).
 
 **Thoughts:** I'm excited to finally be building a full stack application!
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day77-YelpCamp-CRUD-Structure) 
+
+### Day 78 : December 9, 2020
+
+**Today's Progress**: Learned in detail about express middlewares. Continued working on YelpCamp: added EJS-mate, partials and Bootstrap v5 styles.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day78-Express-Middlewares-YelpCamp-pt2) 
 
 
 
