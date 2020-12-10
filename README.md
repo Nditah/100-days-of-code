@@ -635,6 +635,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day78-Express-Middlewares-YelpCamp-pt2) 
 
+### Day 79 : December 10, 2020
+
+**Today's Progress**: Learned in detail about error handling in Express apps: Express built-in error handlers, defining custom error handlers and handling async errors.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day79-Error-Handling-Express) 
+
 
 
 
