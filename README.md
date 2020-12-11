@@ -643,6 +643,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day79-Error-Handling-Express) 
 
+### Day 80 : December 11, 2020
+
+**Today's Progress**: Reviewed error handling in Express, learned about server-side error handling and Implemented error handling and Joi schema validation into YelpCamp.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day80-ErrorHandling-Joi-YelpCamp) 
+
 
 
 
