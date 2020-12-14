@@ -651,6 +651,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day80-ErrorHandling-Joi-YelpCamp) 
 
+### Day 81 : December 14, 2020
+
+**Today's Progress**: Learned about Mongo Relationships: One to few, one to many, mongoose populate, one to Bajillions and Mongo Schema Design.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day81-Mongo-Data-Relationships) 
+
 
 
 
