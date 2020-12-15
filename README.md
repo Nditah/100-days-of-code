@@ -659,6 +659,14 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day81-Mongo-Data-Relationships) 
 
+### Day 82 : December 15, 2020
+
+**Today's Progress**: Reviewed Express, MongoDB and Mongoose topics. Learned about Mongo data relationship with Express.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day82-Review%26Mongo-Relationship-with-Express) 
+
 
 
 
