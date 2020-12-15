@@ -1,0 +1,17 @@
+<% layout('layout/boilerplate')-%>
+<div class="row mt-4">
+  <div class="col-6 offset-3">
+    <h1>All farms</h1>
+    <% for(let f of farms){%>
+    <div class="card my-4" style="width: 18rem">
+      <div class="card-body">
+        <h5 class="card-title"><%= f.name %></h5>
+        <h6 class="card-subtitle mb-2 text-muted"><%= f.city %></h6>
+        <p class="card-text"><%= f.email %></p>
+        <a href="farms/<%=f._id%>" class="btn btn-primary">View</a>
+      </div>
+    </div>
+    <% } %>
+    <a href="farms/new">Add farm</a>
+  </div>
+</div>

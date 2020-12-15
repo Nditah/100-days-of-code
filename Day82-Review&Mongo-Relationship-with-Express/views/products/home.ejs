@@ -1,0 +1,17 @@
+<% layout('layout/boilerplate')-%>
+<div class="row mt-4">
+  <div class="col-6 offset-3">
+    <h1>All products</h1>
+      <% for(let p of products){%>
+        <div class="card my-4" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title"><%= p.name %></h5>
+            <h6 class="card-subtitle mb-2 text-muted">$<%= p.price %></h6>
+            <p class="card-text"><%= p.category %></p>
+            <a href="products/<%=p._id%>" class="btn btn-primary">View</a>
+          </div>
+        </div>
+      <% } %>
+    <a href="products/new">Add product</a>
+  </div>
+</div>

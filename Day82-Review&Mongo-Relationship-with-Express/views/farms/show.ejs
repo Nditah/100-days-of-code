@@ -1,0 +1,20 @@
+<% layout('layout/boilerplate')-%>
+<div class="row">
+    <div class="col-6 offset-3 my-4">
+        <h1><%= farm.name %></h1>
+        <div class="card my-4" style="width: 18rem;">
+            <div class="card-body">
+              <h5 class="card-title"><%= farm.name %></h5>
+              <h6 class="card-subtitle mb-2 text-muted"><%= farm.city %></h6>
+              <p class="card-text"><%= farm.email %></p>
+              <!-- <div class="d-flex">
+                <a href="/farms/<%=farm._id%>/edit" class="btn btn-primary me-2">Edit</a>
+                <form method="POST" action="/farms/<%=farm._id%>?_method=DELETE">
+                <input class="btn btn-danger" type="submit" value="Delete">
+              </div> -->
+              </form>
+            </div>
+          </div>
+          <a href="/farms" class="card-link">Back</a>
+    </div>
+</div>

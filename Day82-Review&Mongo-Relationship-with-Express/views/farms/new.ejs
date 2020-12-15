@@ -1,0 +1,45 @@
+<% layout('layout/boilerplate')-%>
+<div class="row mt-4">
+  <div class="col-6 offset-3">
+    <h1>Create new farm</h1>
+    <form action="/farms" class="my-4" method="POST">
+
+      <div class="mb-3"> 
+        <label for="name" class="form-label">Farm name</label>
+        <input
+          type="text"
+          class="form-control"
+          placeholder="Farm name"
+          id="name"
+          name="name"
+        />
+      </div>
+
+      <div class="mb-3"> 
+        <label for="city" class="form-label">City</label>
+        <input
+          type="text"
+          class="form-control"
+          placeholder="City"
+          id="city"
+          name="city"
+        />
+      </div>
+
+      <div class="mb-3"> 
+        <label for="email" class="form-label">Email</label>
+        <input
+          type="text"
+          class="form-control"
+          placeholder="email"
+          id="email"
+          name="email"
+        />
+      </div>
+
+      <input type="submit" class="btn btn-primary" value="Submit" />
+    </form>
+
+    <a href="/products">Back</a>
+  </div>
+</div>
