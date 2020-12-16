@@ -1,0 +1,24 @@
+<% layout('layout/boilerplate')-%>
+<div class="row my-4">
+  <div class="col-6 offset-3">
+    <h1>Farms</h1>
+
+    <% for(let f of farms) { %>
+    <div class="card my-4" style="width: 18rem">
+      <div class="card-body">
+        <h5 class="card-title"><%=f.name%></h5>
+        <h6 class="card-subtitle mb-2 text-muted"><%=f.city%></h6>
+        <p class="card-text"><%=f.email%></p>
+        <div class="d-flex">
+            <a href="/farms/<%=f._id%>" class="btn btn-info me-2">View</a>
+        <form method="POST" action="/farms/<%=f._id%>?_method=DELETE">
+          <input class="btn btn-danger" type="submit" value="Delete" />
+        </form>
+        </div>
+      </div>
+    </div>
+    <% } %>
+
+    <a href="/farms/new">Add Farm</a>
+  </div>
+</div>

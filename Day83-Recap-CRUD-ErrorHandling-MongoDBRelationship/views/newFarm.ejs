@@ -1,0 +1,71 @@
+<% layout('layout/boilerplate')-%>
+<div class="row mt-4">
+    <div class="col-6 offset-3">
+      <h1>Create new farm</h1>
+      <form 
+      class="needs-validation"
+      action="/farms/new" class="my-4" 
+      method="POST"
+      novalidate
+      >
+  
+        <div class="mb-3"> 
+          <label for="name" class="form-label">Farm name</label>
+          <input
+            type="text"
+            class="form-control"
+            placeholder="Farm name"
+            id="name"
+            name="name"
+            required
+          />
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+          <div class="invalid-feedback">
+            Please provide a valid name.
+          </div>
+        </div>
+  
+        <div class="mb-3"> 
+          <label for="city" class="form-label">City</label>
+          <input
+            type="text"
+            class="form-control"
+            placeholder="City"
+            id="city"
+            name="city"
+            required
+          />
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+          <div class="invalid-feedback">
+            Please provide a valid city.
+          </div>
+        </div>
+  
+        <div class="mb-3"> 
+          <label for="email" class="form-label">Email</label>
+          <input
+            type="text"
+            class="form-control"
+            placeholder="email"
+            id="email"
+            name="email"
+            required
+          />
+          <div class="valid-feedback">
+            Looks good!
+          </div>
+          <div class="invalid-feedback">
+            Please provide a valid email.
+          </div>
+        </div>
+  
+        <input type="submit" class="btn btn-primary" value="Submit" />
+      </form>
+  
+      <a href="/farms">Back</a>
+    </div>
+  </div>

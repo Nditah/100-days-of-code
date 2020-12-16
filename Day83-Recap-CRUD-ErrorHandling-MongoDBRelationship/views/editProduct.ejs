@@ -1,0 +1,68 @@
+<% layout('layout/boilerplate')-%>
+<div class="row my-4">
+    <div class="col-6 offset-3">
+        <h1>Edit product</h1>
+
+        <form 
+        method="POST" 
+        action="/farms/<%=farm._id%>/products/<%=product._id%>/edit?_method=PUT" 
+        class="my-4 needs-validation"
+        novalidate
+        >
+            <div class="mb-3">
+              <label for="name" class="form-label">Product name</label>
+              <input
+                type="text"
+                class="form-control"
+                value=<%=product.name%>
+                id="name"
+                name="name"
+                required
+              />
+              <div class="valid-feedback">
+                Looks good!
+              </div>
+              <div class="invalid-feedback">
+                Please provide a valid name
+              </div>
+            </div>
+      
+            <div class="mb-3">
+              <label for="price" class="form-label">Price (unit)</label>
+              <input
+                type="text"
+                class="form-control"
+                value=<%=product.price%>
+                id="price"
+                name="price"
+                required
+              />
+              <div class="valid-feedback">
+                Looks good!
+              </div>
+              <div class="invalid-feedback">
+                Please provide a valid price
+              </div>
+            </div>
+      
+            <div class="mb-3">
+              <label for="category" class="form-label">Select Category</label>
+              <select name="category" class="form-select" id="category">
+                <option value="Fruit">Fruit</option>
+                <option value="Vegetable">Vegetable</option>
+                <option value="Dairy">Dairy</option>
+              </select>
+              <div class="valid-feedback">
+                Looks good!
+              </div>
+              <div class="invalid-feedback">
+                Please provide a valid category
+              </div>
+            </div>
+      
+            <input type="submit" class="btn btn-primary" value="Submit" />
+          </form>
+      
+          <a href="/farms/<%=farm._id%>">Back</a>
+    </div>
+</div>

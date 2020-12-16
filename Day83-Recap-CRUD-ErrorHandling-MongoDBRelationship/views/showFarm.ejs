@@ -1,0 +1,37 @@
+<% layout('layout/boilerplate')-%>
+<div class="row my-4">
+  <div class="col-6 offset-3">
+    <h1><%=farm.name%></h1>
+
+    <div class="card my-4" style="width: 18rem">
+      <div class="card-body">
+        <h5 class="card-title"><%=farm.name%></h5>
+        <h6 class="card-subtitle mb-2 text-muted"><%=farm.city%></h6>
+        <p class="card-text"><%=farm.email%></p>
+        <a href="/farms/<%=farm._id%>/products/new">Add Product</a>
+      </div>
+    </div>
+
+
+    <h1>Products</h1>
+
+    <% for (let p of farm.products) { %>
+    <div class="card my-4" style="width: 18rem">
+      <div class="card-body">
+        <h5 class="card-title"><%=p.name%></h5>
+        <h6 class="card-subtitle mb-2 text-muted">$<%=p.price%></h6>
+        <p class="card-text"><%=p.category%></p>
+
+        <div class="d-flex">
+            <a class="btn btn-info me-2" href="/farms/<%=farm._id%>/products/<%=p._id%>/edit">Edit</a>
+        <form method="POST" action="/farms/<%=farm._id%>/products/<%=p._id%>/delete?_method=DELETE">
+          <input class="btn btn-danger" type="submit" value="Delete" />
+        </form>
+      </div>
+        </div>
+    </div>
+    <% } %>
+
+    <a href="/farms" class="card-link">Back</a>
+  </div>
+</div>
