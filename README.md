@@ -667,6 +667,29 @@
 
 **Link to work:** [Code](https://github.com/guarmo/100-days-of-code/tree/master/Day82-Review%26Mongo-Relationship-with-Express) 
 
+### Day 83 : December 16, 2020
+
+**Today's Progress**: Created another little CRUD application in order to recap all topics learned in the last weeks: especially Routes, EJS, middlewares, client-side error handling, and MongoDB relationships.
+
+**Thoughts:** 
+
+**Link to work:** [Code](bit.ly/2Kro9Au) 
+
+### Day 84 : December 17, 2020
+
+**Today's Progress**: Created the review model for YelpCamp, added validation, styling, and defined MongoDB relationships.
+
+**Thoughts:** 
+
+**Link to work:** [Code](bit.ly/3mtz4af) 
+
+### Day 85 : December 18, 2020
+
+**Today's Progress**: Learned how to better structure routes with Express Router. Explored the Cookies world: how to send, sign and unsign, and how to use Cookie-Parser.
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://bit.ly/38htMJI) 
 
 
 
