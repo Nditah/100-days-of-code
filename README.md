@@ -691,6 +691,126 @@
 
 **Link to work:** [Code](https://bit.ly/38htMJI) 
 
+### Day 86 : December 21, 2020
+
+**Today's Progress**: Learned about Express Session and Flash. Restructured YelpCamp to use express Router, served static assets, configured session, and implemented Flash messages.
+
+**Thoughts:** 
+
+**Link to work:** [Code](bit.ly/3nDZNlG) 
+
+### Day 87 : December 22, 2020
+
+**Today's Progress**: Learned about authentication, authorization, hashing functions, password salts, and Bcrypt. Created a simple app that uses all of the above.
+
+**Thoughts:** 
+
+**Link to work:** [Code](bit.ly/37H0MME) 
+
+### Day 88 : December 23, 2020
+
+**Today's Progress**: Learned about PassportJS. Implemented register, login, and logout functionalities in YelpCamp.
+
+**Thoughts:** 
+
+**Link to work:** [Code](bit.ly/38nGgiU) 
+
+### Day 89 : December 24, 2020
+
+**Today's Progress**: Added basic authorization to Yelp-Camp, restructured middleware file.
+
+**Thoughts:** 
+
+**Link to work:** [Code](bit.ly/3mKOkQ3) 
+
+### Day 90 : December 28, 2020
+
+**Today's Progress**: Continued working on YelpCamp: Added reviews auth. Refactored to controller & routes. Changed ratings to display stars. Set up .env file
+
+**Thoughts:** 
+
+**Link to work:** [Code](bit.ly/34PbE9i) 
+
+
+### Day 91 : December 29, 2020
+
+**Today's Progress**: Continued working on YelpCamp: Implemented image upload with Cloudinary, Fixed seeds, Added carousel, Customized file input
+
+**Thoughts:** 
+
+**Link to work:** [Code](bit.ly/3mYDpm3) 
+
+### Day 92 : December 30, 2020
+
+**Today's Progress**: Added maps to YelpCamp: Geocoded locations. Learned how to work with GeoJSON. Centered map on the exact location. Added custom map popup
+
+**Thoughts:** 
+
+**Link to work:** [Code](bit.ly/3mVAdYo) 
+
+### Day 93 : December 31, 2020
+
+**Today's Progress**: Continued working on YelpCamp: Learned about Mapbox Cluster Map. Reseeded database. Tweaked clustering code. Added custom popups
+
+**Thoughts:** 
+
+**Link to work:** [Code](https://bit.ly/3rHbKcC) 
+
+### Day 94 : January 1, 2020
+
+**Today's Progress**: Continued working on YelpCamp: Added styles. Learned about common security issues: Mongo injection, XSS, Sanitizing, helmet
+
+**Thoughts:** YelpCamp is ready for deployment! 
+
+**Link to work:** [Code](https://bit.ly/3rHbKcC) 
+
+### Day 95 : January 3, 2020
+
+**Today's Progress**: Reviewed YelpCamp.
+
+**Thoughts:** After months of hard work, I finally completed my first (on-demand) Web Development Bootcamp!This has been my very introduction to web dev. I'm now ready to step into a more intermediate stage of my career. 
+
+**Link to work:**
+
+### Day 96 : January 5, 2020
+
+**Today's Progress**: Started working on a new MERN project: DevConnector  
+
+**Thoughts:**
+
+**Link to work:** [Code](bit.ly/35aVAyA)
+
+### Day 97 : January 6, 2020
+
+**Today's Progress**: Continued working on DevConnector: Reviewed Auth. Created User & Profile routes 
+
+**Thoughts:**
+
+**Link to work:** [Code](https://bit.ly/3pUsOdx)
+
+### Day 98 : January 7, 2020
+
+**Today's Progress**: Continued working on DevConnector: Created the post model. Added post, get & delete routes. Added post like & unlike functionalities
+
+**Thoughts:**
+
+**Link to work:** [Code](bit.ly/2L9Snst)
+
+### Day 99 : January 8, 2020
+
+**Today's Progress**: DevConnector: Finished with the post routes. Completed and reviewed the back-end. Started working on the front-end: React setup. React router. Implemented Redux
+
+**Thoughts:**
+
+**Link to work:** [Code](bit.ly/3q1wudx)
+
+### Day 100 : January 9, 2020
+
+**Today's Progress**: Reiterated over stuff learned yesterday. Learned more in-depth about #React Redux. Re-created DevConnector's auth functionalities from scratch
+
+**Thoughts:**
+
+**Link to work:**
 
 
 
